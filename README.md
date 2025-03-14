@@ -51,7 +51,7 @@ Eles demonstram a aplicação dos conceitos aprendidos ao longo do curso, inclui
    ```bash
    jupyter lab
    ```
-*Em cada notebook há uma célula para instalar as dependencias* 
+*Em cada notebook há uma célula para instalar as dependencias necessárias.* 
 
 ## 🏆 Contribuições  
 Este repositório é um registro do aprendizado do curso, mas sugestões e melhorias são sempre bem-vindas!  
