@@ -1,10 +1,19 @@
 
-# 📚 Machine Learning with Python - IBM  
+# Machine Learning with Python - IBM  
 
-Este repositório contém os códigos e notebooks desenvolvidos durante o curso [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) oferecido pelo Coursera.  
+Este repositório contém os códigos e notebooks desenvolvidos durante o curso [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) oferecido pela IBM Skills Network através da Coursera.  
+
+<p align="center">
+ <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/assets/logos/SN_web_lightmode.png" title="book" width="400" />
+</p>
+
+
+## 🔍 Sobre o Curso  
+Este curso aborda os conceitos fundamentais de Machine Learning e suas aplicações práticas, incluindo pré-processamento de dados, regressão, classificação, agrupamento, redução de dimensionalidade, 
+fundamentos de estatística e álgebra linear, avaliação e aperfeiçoamento de modelos, assim como boas práticas de projeto.  
 
 ## 📂 Estrutura do Repositório  
-Os arquivos estão organizados por módulos, conforme a estrutura do curso:  
+Os arquivos de anotações Jupyter estão organizados por módulos, conforme o curso:  
 
 ```
 📁 Estrutura do repositório  
@@ -24,17 +33,15 @@ Os arquivos estão organizados por módulos, conforme a estrutura do curso:
 - **Jupyter Notebook** 📓  
 - **Bibliotecas:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn  
 
-## 🔍 Sobre o Curso  
-Este curso aborda os conceitos fundamentais de Machine Learning e suas aplicações práticas, incluindo pré-processamento de dados, regressão, classificação, agrupamento, redução de dimensionalidade, avaliação de modelos e boas práticas de projeto.  
-
 ## 🎯 Projetos Finais  
 Os dois projetos finais do curso estão na pasta do **Módulo 6**.  
 Eles demonstram a aplicação dos conceitos aprendidos ao longo do curso, incluindo as melhores técnicas e abordagens ensinadas pelos instrutores da IBM.
 
 ## 📌 Como Usar  
-1. Clone o repositório:  
+1. Clone e acesse o repositório:  
    ```bash
    git clone https://github.com/phaa/ibm-ml-with-python.git
+   cd ibm-ml-with-python/
    ```
 2. Instale as dependências no seu ambiente (conda ou venv):  
    ```bash
