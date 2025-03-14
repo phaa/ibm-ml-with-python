@@ -43,14 +43,15 @@ Eles demonstram a aplicação dos conceitos aprendidos ao longo do curso, inclui
    git clone https://github.com/phaa/ibm-ml-with-python.git
    cd ibm-ml-with-python/
    ```
-2. Instale as dependências no seu ambiente (conda ou venv):  
+2. Ative o ambiente virtual (conda ou venv):  
    ```bash
-   pip install -r requirements.txt
+   conda activate ibmenv
    ```
 3. Execute os notebooks no Jupyter lab:  
    ```bash
    jupyter lab
    ```
+*Em cada notebook há uma célula para instalar as dependencias* 
 
 ## 🏆 Contribuições  
 Este repositório é um registro do aprendizado do curso, mas sugestões e melhorias são sempre bem-vindas!  
