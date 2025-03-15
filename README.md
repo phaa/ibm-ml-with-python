@@ -10,7 +10,8 @@ Este repositório contém os códigos e notebooks desenvolvidos durante o curso 
 
 ## 🔍 Sobre o Curso  
 Este curso aborda os conceitos fundamentais de Machine Learning e suas aplicações práticas, incluindo pré-processamento de dados, regressão, classificação, agrupamento, redução de dimensionalidade, 
-fundamentos de estatística e álgebra linear, avaliação e aperfeiçoamento de modelos, assim como boas práticas de projeto.  
+fundamentos de estatística e álgebra linear, avaliação e aperfeiçoamento de modelos, assim como boas práticas de projeto.  <br/>
+Já que as aulas do curso e os laboratórios são em inglês, optei por deixar todos os código no mesmo idioma.
 
 ## 📂 Estrutura do Repositório  
 Os arquivos de anotações Jupyter estão organizados por módulos, conforme o curso:  
@@ -29,12 +30,12 @@ Os arquivos de anotações Jupyter estão organizados por módulos, conforme o c
 ```
 
 ## 🚀 Tecnologias Utilizadas  
-- **Python** 🐍  
-- **Jupyter Notebook** 📓  
+- **Python**  
+- **Jupyter Notebook**  
 - **Bibliotecas:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn  
 
 ## 🎯 Projetos Finais  
-Os dois projetos finais do curso estão na pasta do **Módulo 6**.  
+Os três projetos finais do curso estão na pasta do **Módulo 6**.  
 Eles demonstram a aplicação dos conceitos aprendidos ao longo do curso, incluindo as melhores técnicas e abordagens ensinadas pelos instrutores da IBM.
 
 ## 📌 Como Usar  
