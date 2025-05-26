@@ -32,9 +32,19 @@ The Jupyter notebook files are organized by modules, according to the course:
 - **Jupyter Notebook**  
 - **Libraries:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn  
 
-## Final Projects  
+## Final Project  
 The three final projects of the course are in the **Module 6** folder.  
 They demonstrate the application of concepts learned throughout the course, including the best techniques and approaches taught by IBM instructors.
+
+Developed a rainfall prediction classifier. The project involved:
+
+- Exploratory Data Analysis (EDA): Identified and addressed data leakage and outliers.
+- Feature Engineering: Created a 'Season' feature from the 'Date' column and handled categorical and numerical features.
+- Preprocessing Pipeline: Built a robust pipeline for data scaling, one-hot encoding, and addressing class imbalance with SMOTE.
+- Model Training & Optimization: Implemented and tuned a RandomForest Classifier and an XGBoost Classifier using GridSearchCV and Stratified K-Fold cross-validation.
+- Feature Selection: Analyzed feature importances and experimented with threshold-based and iterative feature selection to improve model performance.
+- Model Evaluation: Assessed model performance using classification reports, confusion matrices, and F1-scores, comparing the effectiveness of different data preprocessing and modeling techniques.
+- This project demonstrates skills in data cleaning, feature engineering, building machine learning pipelines, model selection, tuning, and evaluation, particularly for imbalanced datasets.
 
 ## How to Use  
 1. Clone and access the repository:  
